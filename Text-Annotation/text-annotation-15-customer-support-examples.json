@@ -1,0 +1,92 @@
+[
+  {
+    "text": "I received my order yesterday, and everything was exactly as I expected. Thank you!",
+    "sentiment": "Positive",
+    "intent": "Appreciation",
+    "main_issue": "Other"
+  },
+  {
+    "text": "I have contacted your support team three times, but nobody has resolved my problem.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "main_issue": "Unresolved support issue"
+  },
+  {
+    "text": "Please let me know whether my appointment is scheduled for Monday.",
+    "sentiment": "Neutral",
+    "intent": "Appointment enquiry",
+    "main_issue": "Appointment scheduling"
+  },
+  {
+    "text": "The product is excellent, but the delivery service was disappointing.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "main_issue": "Poor delivery service"
+  },
+  {
+    "text": "I want to cancel my order and receive a refund.",
+    "sentiment": "Negative",
+    "intent": "Order cancellation",
+    "main_issue": "Order cancellation"
+  },
+  {
+    "text": "My package was supposed to arrive two days ago. Can you tell me where it is?",
+    "sentiment": "Negative",
+    "intent": "Delivery status enquiry",
+    "main_issue": "Delayed delivery"
+  },
+  {
+    "text": "Thank you for helping me reset my password. I can access my account now.",
+    "sentiment": "Positive",
+    "intent": "Account support",
+    "main_issue": "Other"
+  },
+  {
+    "text": "The item arrived damaged, and I would like a replacement.",
+    "sentiment": "Negative",
+    "intent": "Replacement request",
+    "main_issue": "Damaged product"
+  },
+  {
+    "text": "I was charged twice for the same purchase. Please refund the extra payment.",
+    "sentiment": "Negative",
+    "intent": "Refund request",
+    "main_issue": "Duplicate payment"
+  },
+  {
+    "text": "Could you change my appointment from Tuesday to Thursday?",
+    "sentiment": "Neutral",
+    "intent": "Appointment enquiry",
+    "main_issue": "Appointment scheduling"
+  },
+  {
+    "text": "I am very disappointed that nobody has replied to my complaint.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "main_issue": "Unresolved support issue"
+  },
+  {
+    "text": "How can I update the phone number linked to my account?",
+    "sentiment": "Neutral",
+    "intent": "Account support",
+    "main_issue": "Account information update"
+  },
+  {
+    "text": "Everything arrived safely, and the delivery was faster than expected.",
+    "sentiment": "Positive",
+    "intent": "Appreciation",
+    "main_issue": "Other"
+  },
+  {
+    "text": "I received the wrong colour. Please explain how I can exchange it.",
+    "sentiment": "Negative",
+    "intent": "Exchange request",
+    "main_issue": "Wrong product received"
+  },
+  {
+    "text": "Can you confirm whether my refund has been processed?",
+    "sentiment": "Neutral",
+    "intent": "Refund status enquiry",
+    "main_issue": "Refund processing"
+  }
+]
